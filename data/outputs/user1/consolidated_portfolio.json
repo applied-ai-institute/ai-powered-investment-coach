@@ -1,0 +1,229 @@
+{
+  "source_folder": "../data/input/user1",
+  "source_files": [
+    "Portfolio1.pdf",
+    "Portfolio2.pdf",
+    "Portfolio3.pdf",
+    "Portfolio4.pdf",
+    "Portfolio5.pdf"
+  ],
+  "total_holdings": 17,
+  "total_allocation": 100.0,
+  "total_value_usd": 979963.0,
+  "holdings": [
+    {
+      "ticker": "VTI",
+      "company_name": "Vanguard Total Stock Market ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 20.847,
+      "value_usd": 204294.0,
+      "gain_loss_usd": 19912.0,
+      "source_files": [
+        "Portfolio1.pdf",
+        "Portfolio3.pdf",
+        "Portfolio5.pdf"
+      ],
+      "gain_loss_pct": 11.64
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "investment_type": "Stock",
+      "allocation_pct": 12.4822,
+      "value_usd": 122321.0,
+      "gain_loss_usd": 64027.0,
+      "source_files": [
+        "Portfolio2.pdf",
+        "Portfolio4.pdf"
+      ],
+      "gain_loss_pct": 108.7
+    },
+    {
+      "ticker": "BND",
+      "company_name": "Vanguard Total Bond Market ETF",
+      "investment_type": "Bond ETF",
+      "allocation_pct": 11.1326,
+      "value_usd": 109095.0,
+      "gain_loss_usd": 570.45,
+      "source_files": [
+        "Portfolio1.pdf",
+        "Portfolio3.pdf"
+      ],
+      "gain_loss_pct": 0.89
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "investment_type": "Stock",
+      "allocation_pct": 10.9399,
+      "value_usd": 107207.0,
+      "gain_loss_usd": 26230.0,
+      "source_files": [
+        "Portfolio2.pdf",
+        "Portfolio4.pdf"
+      ],
+      "gain_loss_pct": 30.67
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "investment_type": "Stock",
+      "allocation_pct": 8.574,
+      "value_usd": 84022.0,
+      "gain_loss_usd": 14901.0,
+      "source_files": [
+        "Portfolio2.pdf"
+      ],
+      "gain_loss_pct": 21.54
+    },
+    {
+      "ticker": "IJR",
+      "company_name": "iShares Core S&P Small-Cap ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 6.1984,
+      "value_usd": 60742.0,
+      "gain_loss_usd": 3545.0,
+      "source_files": [
+        "Portfolio3.pdf"
+      ],
+      "gain_loss_pct": 6.2
+    },
+    {
+      "ticker": "VEA",
+      "company_name": "Vanguard FTSE Developed Markets ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 5.8933,
+      "value_usd": 57752.0,
+      "gain_loss_usd": 3844.12,
+      "source_files": [
+        "Portfolio1.pdf",
+        "Portfolio3.pdf",
+        "Portfolio5.pdf"
+      ],
+      "gain_loss_pct": 6.87
+    },
+    {
+      "ticker": "VTTHX",
+      "company_name": "Vanguard Target Retirement 2035",
+      "investment_type": "Other",
+      "allocation_pct": 4.0492,
+      "value_usd": 39681.0,
+      "gain_loss_usd": 2211.0,
+      "source_files": [
+        "Portfolio3.pdf"
+      ],
+      "gain_loss_pct": 5.9
+    },
+    {
+      "ticker": "LQD",
+      "company_name": "iShares iBoxx Investment Grade Corporate Bond",
+      "investment_type": "Bond ETF",
+      "allocation_pct": 3.6786,
+      "value_usd": 36049.0,
+      "gain_loss_usd": -920.12,
+      "source_files": [
+        "Portfolio1.pdf"
+      ],
+      "gain_loss_pct": -2.49
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "investment_type": "Stock",
+      "allocation_pct": 3.3887,
+      "value_usd": 33208.0,
+      "gain_loss_usd": -1350.0,
+      "source_files": [
+        "Portfolio4.pdf"
+      ],
+      "gain_loss_pct": -3.9
+    },
+    {
+      "ticker": "VWO",
+      "company_name": "Vanguard FTSE Emerging Markets ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 2.9976,
+      "value_usd": 29375.0,
+      "gain_loss_usd": -776.3399999999999,
+      "source_files": [
+        "Portfolio1.pdf",
+        "Portfolio4.pdf",
+        "Portfolio5.pdf"
+      ],
+      "gain_loss_pct": -3.96
+    },
+    {
+      "ticker": "SPY",
+      "company_name": "SPDR S&P 500 ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 2.8599,
+      "value_usd": 28026.0,
+      "gain_loss_usd": 2660.0,
+      "source_files": [
+        "Portfolio2.pdf",
+        "Portfolio4.pdf"
+      ],
+      "gain_loss_pct": 10.27
+    },
+    {
+      "ticker": "SCHP",
+      "company_name": "Schwab US TIPS ETF",
+      "investment_type": "Bond ETF",
+      "allocation_pct": 2.7498,
+      "value_usd": 26947.0,
+      "gain_loss_usd": 347.0,
+      "source_files": [
+        "Portfolio1.pdf"
+      ],
+      "gain_loss_pct": 1.31
+    },
+    {
+      "ticker": "AGG",
+      "company_name": "iShares Core US Aggregate Bond ETF",
+      "investment_type": "Bond ETF",
+      "allocation_pct": 2.1891,
+      "value_usd": 21452.0,
+      "gain_loss_usd": -620.0,
+      "source_files": [
+        "Portfolio5.pdf"
+      ],
+      "gain_loss_pct": -2.81
+    },
+    {
+      "ticker": "GOOG",
+      "company_name": "Alphabet Class C",
+      "investment_type": "Stock",
+      "allocation_pct": 0.8464,
+      "value_usd": 8294.0,
+      "gain_loss_usd": 964.0,
+      "source_files": [
+        "Portfolio4.pdf"
+      ],
+      "gain_loss_pct": 13.1
+    },
+    {
+      "ticker": "SCHH",
+      "company_name": "Schwab US REIT ETF",
+      "investment_type": "REIT",
+      "allocation_pct": 0.8125,
+      "value_usd": 7962.0,
+      "gain_loss_usd": -215.0,
+      "source_files": [
+        "Portfolio5.pdf"
+      ],
+      "gain_loss_pct": -2.63
+    },
+    {
+      "ticker": "VNQ",
+      "company_name": "REIT Index ETF",
+      "investment_type": "ETF",
+      "allocation_pct": 0.3608,
+      "value_usd": 3536.0,
+      "gain_loss_usd": -93.21,
+      "source_files": [
+        "Portfolio2.pdf"
+      ],
+      "gain_loss_pct": -2.55
+    }
+  ]
+}
